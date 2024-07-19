@@ -40,8 +40,8 @@ npm run tauri dev
 
 ## Commands
 
-`npm run tauri dev`: Start the development server.
-`npm run tauri build`: Build the production-ready application.
+- `npm run tauri dev`: Start the development server.
+- `npm run tauri build`: Build the production-ready application.
 
 ## Recommended IDE Setup
 
